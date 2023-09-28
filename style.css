@@ -1,0 +1,12 @@
+.vertical img{
+    height: 480px;
+}
+
+.horizontal img{
+    height: 140px;
+}
+.vertical img,.horizontal img{
+    object-fit: cover;
+    width: 100%;
+}
+
